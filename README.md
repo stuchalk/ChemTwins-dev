@@ -24,6 +24,8 @@ usefulness and/or issues/updates/deletions needed to make it better for cheminfo
 
 Stuart Chalk 3/23/22
 
+[![DOI](https://zenodo.org/badge/471474621.svg)](https://zenodo.org/badge/latestdoi/471474621)
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
