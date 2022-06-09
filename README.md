@@ -22,7 +22,10 @@ In addition to the dataset (zip file above) and the presentation the following a
 The community is invited to play with this resource and provide feedback via the repository as to the
 usefulness and/or issues/updates/deletions needed to make it better for cheminformatic usage.
 
-Stuart Chalk 3/23/22
+UPDATE: Individual files in the set are now available at 
+[https://scidata.unf.edu/tranche/chemtwin/test](https://scidata.unf.edu/tranche/chemtwin/test)
+
+Stuart Chalk 6/9/22
 
 [![DOI](https://zenodo.org/badge/471474621.svg)](https://zenodo.org/badge/latestdoi/471474621)
 
